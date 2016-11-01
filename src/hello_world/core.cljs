@@ -1,5 +1,9 @@
-(ns hello-world.core)
+(ns hello-world.core
+	(:require [cljs.nodejs :as nodejs]))
 
-(enable-console-print!)
+(nodejs/enable-util-print!)
 
-(println "Hello World from Autobuild!")
+(defn -main [& args]
+	(println "Hello World!"))
+
+(set! *main-cli-fn* -main)
