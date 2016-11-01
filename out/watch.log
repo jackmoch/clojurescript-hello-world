@@ -1,0 +1,11 @@
+Building ...
+... done. Elapsed 0.355914766 seconds
+Watching paths: /Users/jackmoch/workspace/clojurescript/hello_world/src
+Change detected, recompiling ...
+Compiling src/hello_world/core.cljs
+Copying file:/Users/jackmoch/workspace/clojurescript/hello_world/src/hello_world/core.cljs to out/hello_world/core.cljs
+... done. Elapsed 0.19142375 seconds
+Change detected, recompiling ...
+Compiling src/hello_world/core.cljs
+Copying file:/Users/jackmoch/workspace/clojurescript/hello_world/src/hello_world/core.cljs to out/hello_world/core.cljs
+... done. Elapsed 0.142217306 seconds
