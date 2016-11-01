@@ -9,3 +9,13 @@ Change detected, recompiling ...
 Compiling src/hello_world/core.cljs
 Copying file:/Users/jackmoch/workspace/clojurescript/hello_world/src/hello_world/core.cljs to out/hello_world/core.cljs
 ... done. Elapsed 0.142217306 seconds
+Change detected, recompiling ...
+Compiling src/hello_world/core.cljs
+WARNING: No such namespace: repl, could not locate repl.cljs, repl.cljc, or Closure namespace "" at line 4 src/hello_world/core.cljs
+WARNING: Use of undeclared Var repl/connect at line 4 src/hello_world/core.cljs
+Copying file:/Users/jackmoch/workspace/clojurescript/hello_world/src/hello_world/core.cljs to out/hello_world/core.cljs
+... done. Elapsed 0.098801923 seconds
+Change detected, recompiling ...
+Compiling src/hello_world/core.cljs
+Copying file:/Users/jackmoch/workspace/clojurescript/hello_world/src/hello_world/core.cljs to out/hello_world/core.cljs
+... done. Elapsed 0.127259071 seconds
